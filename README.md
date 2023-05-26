@@ -1,5 +1,4 @@
-# OzPhoneGen
-A python phone number generator that can do Australian and American phone numbers.
+
 # OzPhoneGen
 
 OzPhoneGen is a phone number generator script that allows you to generate Australian and American phone numbers. It provides a simple command-line interface to select the country and generate random phone numbers.
