@@ -55,7 +55,7 @@ Acknowledgments
 
     ASCII art created using ASCII Art Studio & crackidz
 
-#Disclaimer
+# Disclaimer
 
 Please use this script responsibly and adhere to the legal and ethical guidelines of your jurisdiction. The generated phone numbers are for demonstration and testing purposes only. Respect privacy and do not misuse the generated phone numbers.
 
