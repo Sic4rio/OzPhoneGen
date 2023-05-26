@@ -17,26 +17,25 @@ Before running the script, make sure you have the following requirements met:
 ```shell
 git clone https://github.com/your-username/OzPhoneGen.git
 ```
-    Navigate to the project directory:
 
-shell
+Navigate to the project directory:
+
 ```
 cd OzPhoneGen
 ```
-    Install the required dependencies:
 
-shell
+Install the required dependencies:
+
 ```
 pip install -r requirements.txt
 ```
-    Run the script:
+Run the script:
 
-shell
 ```
 python numbers.py
 ```
 Usage
-
+```
     Upon running the script, you will be presented with a banner and a menu of options.
 
     Select the desired option by entering the corresponding number.
@@ -46,7 +45,7 @@ Usage
     The generated phone numbers will be displayed on the console and saved to the respective text files: AUSphone.txt for Australian numbers and USAphone.txt for American numbers.
 
     Press 0 to quit the program.
-
+```
 License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
@@ -61,7 +60,5 @@ Disclaimer
 
 Please use this script responsibly and adhere to the legal and ethical guidelines of your jurisdiction. The generated phone numbers are for demonstration and testing purposes only. Respect privacy and do not misuse the generated phone numbers.
 
-css
 
-
-Feel free to modify the content to match your project's specific details and requirements.
+Feel free to modify the content.
