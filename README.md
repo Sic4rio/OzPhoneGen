@@ -54,7 +54,7 @@ Contributing
 Contributions are welcome! If you have any suggestions, improvements, or bug fixes, please feel free to open an issue or submit a pull request.
 Acknowledgments
 
-    ASCII art created using ASCII Art Studio
+    ASCII art created using ASCII Art Studio & crackidz
 
 Disclaimer
 
